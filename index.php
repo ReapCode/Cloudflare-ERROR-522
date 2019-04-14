@@ -1,4 +1,4 @@
-r<html lang="de">
+<html lang="de">
 
 <!--
 @ReapCoding * 15 - 04 - 2019
