@@ -1,4 +1,4 @@
-<html lang="de">
+r<html lang="de">
 
 <!--
 @ReapCoding * 15 - 04 - 2019
@@ -52,7 +52,7 @@ Using the website is at your own risk
                             <i class="cf-icon cf-icon-cloud"></i>
                             <i class="cf-icon-status cf-icon-ok"></i>
                         </div>
-                        <span class="cf-status-desc">London</span>
+                        <span class="cf-status-desc">CITY</span>
                         <h3 class="cf-status-name">Cloudflare</h3>
                         <span class="cf-status-label">Working</span>
                     </div>
@@ -62,7 +62,7 @@ Using the website is at your own risk
                             <i class="cf-icon cf-icon-server"></i>
                             <i class="cf-icon-status cf-icon-error"></i>
                         </div>
-                        <span class="cf-status-desc">team.skypotion.eu</span>
+                        <span class="cf-status-desc">YOUR HOST OTHER YOUR IP </span>
                         <h3 class="cf-status-name">Host</h3>
                         <span class="cf-status-label">Error</span>
                     </div>
